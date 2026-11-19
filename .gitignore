@@ -1,0 +1,9 @@
+# 这个仓库只放文档，不放源码 / 数据 / 密钥
+*.env
+.env
+*.key
+*.zip
+*.exe
+__pycache__/
+.DS_Store
+Thumbs.db
